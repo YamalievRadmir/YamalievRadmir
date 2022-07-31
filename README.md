@@ -3,7 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Radmir;I+want+to+work+as+a+QA+Engineer;Nice+to+meet+you+All!&font=Fira%20Code&center=true&width=650&height=70&color=000000&vCenter=true&size=30"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Radmir;I+want+to+work+as+a+QA+Engineer;Nice+to+meet+you+All!&font=Fira%20Code&center=true&width=650&height=70&color=FF0000&vCenter=true&size=30"></a>
 </p>
 
 ## I am currently taking courses [<img src='https://avatars.githubusercontent.com/u/65260527?s=280&v=4' alt='qa.guru' height='42'>](https://qa.guru)
