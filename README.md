@@ -1,5 +1,13 @@
-# Hi there 👋
-## ***I'm Radmir - Junior QA Automation Engineer***
+
+<h1 align="center">Hello there and welcome to my GitHub page!
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Radmir;I+want+to+work+as+a+QA+Engineer;Nice+to+meet+you+All!&font=Fira%20Code&center=true&width=650&height=70&color=000000&vCenter=true&size=30"></a>
+</p>
+
+## I am currently taking courses [<img src='https://avatars.githubusercontent.com/u/65260527?s=280&v=4' alt='qa.guru' height='42'>](https://qa.guru)
+## I also study testing theory <img src='https://cdn1.ozone.ru/multimedia/1000468924.jpg' alt='qa.guru' height='42'>
 
 # <p align="center">My technological stack</p>
 <p align="center">
@@ -27,18 +35,18 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamalievRadmir&theme=tokyonight)
 
 ## Find me
-[<img src='https://cdn.icon-icons.com/icons2/2429/PNG/128/telegram_logo_icon_147228.png' alt='telegram' height='42'>](https://t.me/@RadmirYamaliev)
+[<img src='https://cdn.icon-icons.com/icons2/2429/PNG/128/telegram_logo_icon_147228.png' alt='telegram' height='42'>](https://t.me/RadmirYamaliev)
 [<img src='https://cdn.icon-icons.com/icons2/808/PNG/128/vk_icon-icons.com_66102.png' alt='vk' height='42'>](https://vk.com/yaradmir)
 [<img src='https://cdn.icon-icons.com/icons2/1211/PNG/128/1491580635-yumminkysocialmedia26_83102.png' alt='instagram' height='42'>](https://instagram.com/yamalievradmir)
 
 
 <!--
-**NikkiTox/nikkitox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Radmir Ya/YamalievRadmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
